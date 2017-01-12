@@ -1,0 +1,19 @@
+{
+  "name": "tvconverter",
+  "version": "0.0.1",
+  "description": "A GUI video converter using Electron that uses ffmpeg as it's underlying converter",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compujohnny/tvconverter.git"
+  },
+  "author": "John Youssef <compujohnny@gmail.com, john@jesox.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/compujohnny/tvconverter/issues"
+  },
+  "homepage": "https://github.com/compujohnny/tvconverter#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
